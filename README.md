@@ -12,22 +12,17 @@
 
 ### Frameworks e Bibliotecas
 - Django;
-  
-## Contato
-
-📫 Você pode me encontrar em:
-
-- LinkedIn: https://www.linkedin.com/in/ana-luiza-z-nogueira-652a0b202/
-- E-mail: analuizazarelli@gmail.com
 
 💬 Sinta-se à vontade para entrar em contato comigo para colaborações, dúvidas ou apenas para bater um papo!
 
+- LinkedIn: https://www.linkedin.com/in/ana-luiza-z-nogueira-652a0b202/
 ---
 
 ⭐️ Feito com ❤️ por Ana Zarelli
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:analuizazarelli@gmail.com) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

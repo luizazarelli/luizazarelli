@@ -18,8 +18,6 @@
 - LinkedIn: https://www.linkedin.com/in/ana-luiza-z-nogueira-652a0b202/
 ---
 
-⭐️ Feito com ❤️ por Ana Zarelli
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:analuizazarelli@gmail.com) 
 
@@ -34,4 +32,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=luizazarelli&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐️ Feito com ❤️ por Ana Zarelli<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

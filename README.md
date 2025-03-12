@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-🎓 Ciência da Computação na Universidade Estadual de Londrina.
+🎓Estudante de Ciência da Computação na Universidade Estadual de Londrina.
 
 ## Habilidades e Tecnologias
 

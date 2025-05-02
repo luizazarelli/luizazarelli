@@ -9,6 +9,7 @@
 ### Linguagens de Programação
 - C;
 - Python;
+- Java.
 
 ### Frameworks e Bibliotecas
 - Django;
